@@ -1,0 +1,52 @@
+WORKER 3 : 0.20 sec
+WORKER 2 : 0.21 sec
+WORKER 1 : 0.22 sec
+Main : 0.31 sec
+WORKER 1 : 0.15 sec
+WORKER 2 : 0.15 sec
+Main : 0.30 sec
+WORKER 2 : 0.17 sec
+WORKER 1 : 0.17 sec
+Main : 0.33 sec
+WORKER 1 : 0.16 sec
+WORKER 2 : 0.16 sec
+Main : 0.30 sec
+WORKER 1 : 0.21 sec
+WORKER 2 : 0.21 sec
+Main : 0.35 sec
+WORKER 3 : 0.19 sec
+WORKER 2 : 0.19 sec
+WORKER 1 : 0.19 sec
+Main : 0.38 sec
+WORKER 2 : 0.19 sec
+WORKER 1 : 0.19 sec
+Main : 0.31 sec
+WORKER 1 : 0.17 sec
+WORKER 2 : 0.17 sec
+Main : 0.30 sec
+WORKER 2 : 0.17 sec
+WORKER 1 : 0.17 sec
+Main : 0.30 sec
+WORKER 2 : 0.18 sec
+WORKER 1 : 0.18 sec
+Main : 0.30 sec
+WORKER 1 : 0.33 sec
+WORKER 4 : 0.33 sec
+WORKER 2 : 0.33 sec
+WORKER 5 : 0.33 sec
+WORKER 3 : 0.34 sec
+Main : 0.46 sec
+WORKER 1 : 0.39 sec
+WORKER 3 : 0.39 sec
+WORKER 2 : 0.39 sec
+WORKER 4 : 0.40 sec
+Main : 0.51 sec
+WORKER 1 : 0.20 sec
+WORKER 2 : 0.20 sec
+WORKER 3 : 0.20 sec
+Main : 0.34 sec
+WORKER 4 : 1.43 sec
+WORKER 2 : 1.43 sec
+WORKER 1 : 1.44 sec
+WORKER 3 : 1.44 sec
+Main : 1.55 sec
